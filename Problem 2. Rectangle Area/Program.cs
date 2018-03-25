@@ -6,6 +6,8 @@ namespace Problem_2._Rectangle_Area
     {
         static void Main(string[] args)
         {
+            //#Verified by PetrovEvgeniy
+
             //Initialising variables
             double RectangleWeight = double.Parse(Console.ReadLine());
             double RectangleHeight = double.Parse(Console.ReadLine());

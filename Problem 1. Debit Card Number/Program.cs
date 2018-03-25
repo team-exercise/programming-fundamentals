@@ -6,6 +6,8 @@ namespace Problem_1._Debit_Card_Number
     {
         static void Main(string[] args)
         {
+            //#Verified by PetrovEvgeniy
+
             //Initialising variables
             int FirstInteger = int.Parse(Console.ReadLine());
             int SecondInteger = int.Parse(Console.ReadLine());

@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\programming-fundamentals\\Problem 2. Rectangle Area\\Problem 2. Rectangle Area.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Wallpaper.Engine.Build.1.0.619\\programming-fundamentals\\Problem 2. Rectangle Area\\Problem 2. Rectangle Area.csproj",
       "projectName": "Problem 2. Rectangle Area",
-      "projectPath": "C:\\Users\\User\\Desktop\\programming-fundamentals\\Problem 2. Rectangle Area\\Problem 2. Rectangle Area.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Wallpaper.Engine.Build.1.0.619\\programming-fundamentals\\Problem 2. Rectangle Area\\Problem 2. Rectangle Area.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\programming-fundamentals\\Problem 2. Rectangle Area\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Wallpaper.Engine.Build.1.0.619\\programming-fundamentals\\Problem 2. Rectangle Area\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

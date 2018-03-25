@@ -6,6 +6,8 @@ namespace Problem_4._Beverage_Labels
     {
         static void Main(string[] args)
         {
+            //#Verified by PetrovEvgeniy
+
             //Reading from the console
             string ProductName = Console.ReadLine();
             int ProductVolume = int.Parse(Console.ReadLine()); //ml

@@ -6,6 +6,8 @@ namespace Problem_5.___Character_Stats
     {
         static void Main(string[] args)
         {
+            //#Verified by PetrovEvgeniy
+
             //Reading from the console
             string CharactarName = Console.ReadLine();
             int CurrentHealth = int.Parse(Console.ReadLine());
