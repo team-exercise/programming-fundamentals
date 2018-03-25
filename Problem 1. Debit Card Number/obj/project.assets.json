@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp Intro and Basic Syntax - Exercises\\Problem 1. Debit Card Number\\Problem 1. Debit Card Number.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\programming-fundamentals\\Problem 1. Debit Card Number\\Problem 1. Debit Card Number.csproj",
       "projectName": "Problem 1. Debit Card Number",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharp Intro and Basic Syntax - Exercises\\Problem 1. Debit Card Number\\Problem 1. Debit Card Number.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\programming-fundamentals\\Problem 1. Debit Card Number\\Problem 1. Debit Card Number.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharp Intro and Basic Syntax - Exercises\\Problem 1. Debit Card Number\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\programming-fundamentals\\Problem 1. Debit Card Number\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

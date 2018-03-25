@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp Intro and Basic Syntax - Exercises\\Problem 4. Beverage Labels\\Problem 4. Beverage Labels.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\programming-fundamentals\\Problem 4. Beverage Labels\\Problem 4. Beverage Labels.csproj",
       "projectName": "Problem 4. Beverage Labels",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharp Intro and Basic Syntax - Exercises\\Problem 4. Beverage Labels\\Problem 4. Beverage Labels.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\programming-fundamentals\\Problem 4. Beverage Labels\\Problem 4. Beverage Labels.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharp Intro and Basic Syntax - Exercises\\Problem 4. Beverage Labels\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\programming-fundamentals\\Problem 4. Beverage Labels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
